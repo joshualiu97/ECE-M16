@@ -1,0 +1,23 @@
+// Inputs
+NET "x0" LOC = P17 | IOSTANDARD = LVCMOS33;
+NET "x1" LOC = P15 | IOSTANDARD = LVCMOS33;
+NET "x2" LOC = P12 | IOSTANDARD = LVCMOS33;
+NET "x3" LOC = P10 | IOSTANDARD = LVCMOS33;
+
+
+// Outputs
+//NET "a"     LOC = P123;
+//NET "b"     LOC = P124;
+//NET "c"     LOC = P126;
+//NET "d"     LOC = P127;
+//NET "e"     LOC = P131;
+//NET "f"     LOC = P132;
+//NET "g"     LOC = P133;
+
+NET "a"     LOC = P5;
+NET "b"     LOC = P7;
+NET "c"     LOC = P9;
+NET "d"     LOC = P11;
+NET "e"     LOC = P14;
+NET "f"     LOC = P16;
+NET "g"     LOC = P21;
